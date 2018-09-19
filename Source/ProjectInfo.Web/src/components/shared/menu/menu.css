@@ -1,0 +1,8 @@
+.menu{ 
+    width: 100px;
+}
+
+.menu > div{
+    position: relative;
+    height: 100%
+}

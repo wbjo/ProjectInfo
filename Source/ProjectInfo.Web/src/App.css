@@ -1,0 +1,17 @@
+.container{
+  padding: 50px;
+}
+
+.root{
+    flex-grow: 1;
+    height: 440px;
+    z-index: 1;
+    overflow: 'hidden';
+    position: 'relative';
+    display: 'flex';
+}
+
+.main{
+  display: flex;
+  height: 100%;
+}

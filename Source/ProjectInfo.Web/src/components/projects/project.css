@@ -1,0 +1,53 @@
+.flex{
+    display:flex;
+}
+
+.flex-between{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.full-width{
+    width: 100%;
+}
+
+.full-height{
+    height: 100%;
+}
+
+.title{
+    margin-left: 50px;
+}
+
+.bottom-margin{
+    margin-bottom: 5px;
+}
+
+.top-margin{
+    margin-top: 20px;
+}
+
+.chip{
+    width: calc(100% - 5px) !important;
+    padding: 0 5px 0 0 !important;
+}
+
+.spacer{
+    padding: 0 5px 0 5px;
+}
+
+.project-box{
+    height: 300px;
+}
+
+.panel-summary button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
